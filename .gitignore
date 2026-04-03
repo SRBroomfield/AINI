@@ -1,0 +1,12 @@
+# Environment — NEVER commit your API key
+.env
+
+# Node dependencies — reinstalled with npm install
+node_modules/
+
+# Mac system files
+.DS_Store
+
+# Editor files
+.vscode/
+*.swp
